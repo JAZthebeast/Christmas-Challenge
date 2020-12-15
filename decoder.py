@@ -14,5 +14,4 @@ def decoder(message):
 
 	return final_message
 
-
 print(morse_translator.translator(decoder(message)))
